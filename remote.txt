@@ -1,2 +1,6 @@
 This is a simulation of a remote change by a colleague
-git pull will allow us to pick these up on our local file system
+git pull will allow us to pick these up on our local FILE SYSTEM
+
+add a new line here
+and another
+
