@@ -32,3 +32,6 @@ string_var <- "A simple scalar character variable"
 ##### some more content 
 really minimal
 
+##### and more
+we are now ignoring .js files 
+
