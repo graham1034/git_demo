@@ -4,7 +4,7 @@ git pull will allow us to pick these up on our local FILE SYSTEM
 add a new line here
 and another
 
-THIS IS NEW VERSION OF THIS LINE
 
-This is change made just in master with a view to creating a conflict
+THIS IS the latest VERSION OF THIS LINE
+and another
 
