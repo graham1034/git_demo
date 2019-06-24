@@ -5,3 +5,6 @@ add a new line here
 and another
 
 THIS IS NEW VERSION OF THIS LINE
+
+This is change made just in master with a view to creating a conflict
+
